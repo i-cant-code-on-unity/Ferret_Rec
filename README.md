@@ -1,4 +1,4 @@
-# Ferret_Rec, old rec room server revival made with python.
+# Ferret_Rec, old rec room server revival made with python. :D
 
 English/Inglés/Inglês
 Welcome to Ferret Rec. An old Rec Room server revival for versions around 2017/2021 (i do not assure you if these versions come out or not)
@@ -16,6 +16,6 @@ Português/Portuguese/portugués
 Bem-vindo a Ferret Rec. este projeto é uma recreação de versões antigas do Rec Room de 2017/2021 (não posso garantir se estas versões serão lançadas ou não)
 ESTE PROJETO NÃO ESTA AFILIADO À AGAINST GRAVITY OU REC ROOM.
 
-# CURRENT STATUS
+# CURRENT STATUS ❔
 
 Development slowed due to my laptop breaking and me having to use a low end laptop. all server that are in most development are 2019/2021, 2018 and 2017 still under heavy development.
