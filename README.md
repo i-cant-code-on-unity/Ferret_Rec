@@ -17,5 +17,4 @@ Bem-vindo a Ferret Rec. este projeto é uma recreação de versões antigas do R
 ESTE PROJETO NÃO ESTA AFILIADO À AGAINST GRAVITY OU REC ROOM.
 
 # CURRENT STATUS ❔
-
-Development slowed due to my laptop breaking and me having to use a low end laptop. all server that are in most development are 2019/2021, 2018 and 2017 still under heavy development.
+i have gotten a pc but still most development is put in 2016/2017/2019/2021 and idk i hope i will get to start doing something soon 
